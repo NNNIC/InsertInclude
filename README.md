@@ -17,7 +17,8 @@ ex) using_text.txt
 
 2. Write include mark in source.
 
-Format:  
+Format
+
     //<<<include=FILENAME     --- begin mark with FILENAME
     //>>>                     --- end   mark
 
